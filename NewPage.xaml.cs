@@ -1,5 +1,3 @@
-using Microsoft.VisualBasic.FileIO;
-
 namespace MauiBug;
 
 public partial class NewPage : ContentPage
